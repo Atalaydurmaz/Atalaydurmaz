@@ -30,14 +30,14 @@
       <a href="https://terapibul-weld.vercel.app"><b>🌐 terapibul-weld.vercel.app →</b></a>
     </td>
     <td align="center" valign="top" width="33%">
-      <a href="https://gamzelikozmetik.com" title="Gamzelieczanem — Canlı siteyi aç"><img src="screenshots/gamzelieczanem.png" width="100%" alt="Gamzelieczanem önizleme" /></a>
+      <a href="https://gamzelidermokozmetik.com" title="Gamzelieczanem — Canlı siteyi aç"><img src="screenshots/gamzelieczanem.png" width="100%" alt="Gamzelieczanem önizleme" /></a>
       <br/><br/>
-      <a href="https://gamzelikozmetik.com"><img src="https://img.shields.io/badge/💊%20Gamzelieczanem-ec4899?style=for-the-badge&logoColor=white" alt="Gamzelieczanem" /></a>
-      <a href="https://gamzelikozmetik.com"><img src="https://img.shields.io/badge/●_LIVE-22c55e?style=flat-square&labelColor=ec4899" alt="LIVE" /></a>
+      <a href="https://gamzelidermokozmetik.com"><img src="https://img.shields.io/badge/💊%20Gamzelieczanem-ec4899?style=for-the-badge&logoColor=white" alt="Gamzelieczanem" /></a>
+      <a href="https://gamzelidermokozmetik.com"><img src="https://img.shields.io/badge/●_LIVE-22c55e?style=flat-square&labelColor=ec4899" alt="LIVE" /></a>
       <br/><br/>
       <sub><b>AI destekli kozmetik e-ticaret</b><br/>Cilt analizi · Sanal makyaj · Iyzico</sub>
       <br/><br/>
-      <a href="https://gamzelikozmetik.com"><b>🌐 gamzelikozmetik.com →</b></a>
+      <a href="https://gamzelidermokozmetik.com"><b>🌐 gamzelidermokozmetik.com →</b></a>
     </td>
     <td align="center" valign="top" width="33%">
       <a href="https://bilaler-randevu-app.vercel.app" title="Bilal Er — Canlı siteyi aç"><img src="screenshots/bilaler.png" width="100%" alt="Bilal Er önizleme" /></a>
@@ -115,14 +115,14 @@ Danışanları ihtiyaçlarına uygun uzmanlarla buluşturan, Daily.co tabanlı g
 **Yapay zekâ destekli kozmetik ve kişisel bakım e-ticaret platformu.**
 Eczacı güvencesiyle ürün satışı yapan, AI cilt analizi ve face-api.js ile sanal makyaj deneme sunan Next.js tabanlı tam kapsamlı e-ticaret çözümü.
 
-<a href="https://gamzelikozmetik.com"><img src="https://img.shields.io/badge/🌐_Live-gamzelikozmetik.com-ec4899?style=flat-square" /></a>
+<a href="https://gamzelidermokozmetik.com"><img src="https://img.shields.io/badge/🌐_Live-gamzelidermokozmetik.com-ec4899?style=flat-square" /></a>
 <a href="https://github.com/Atalaydurmaz/GamzeliEczanem-"><img src="https://img.shields.io/badge/Repo-GitHub-1f2937?style=flat-square&logo=github" /></a>
 
 **Öne çıkanlar:** AI cilt analizi · Sanal makyaj deneme · Iyzico ödeme entegrasyonu · 7/24 Eczacı Asistanı · Terk-sepet cron hatırlatıcısı · Admin paneli
 **Stack:** Next.js 16 · React 19 · Supabase · NextAuth · Anthropic Claude · face-api.js · Iyzico · Netgsm SMS · Tailwind
 
 <p align="center">
-  <a href="https://gamzelikozmetik.com">
+  <a href="https://gamzelidermokozmetik.com">
     <img src="https://raw.githubusercontent.com/Atalaydurmaz/GamzeliEczanem-/main/screenshots/01-anasayfa.png" width="85%" alt="Gamzelieczanem" />
   </a>
 </p>

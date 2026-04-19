@@ -20,11 +20,11 @@
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="https://terapistbul.com">
-        <img src="https://img.shields.io/badge/🩺_TerapistBul-Canlı-0f766e?style=for-the-badge&logoColor=white" height="36" />
+      <a href="https://terapibul.vercel.app">
+        <img src="https://img.shields.io/badge/🩺_TerapiBul-Canlı-0f766e?style=for-the-badge&logoColor=white" height="36" />
       </a>
       <br/>
-      <sub><strong>terapistbul.com</strong><br/>AI terapist eşleştirme</sub>
+      <sub><strong>terapibul.vercel.app</strong><br/>AI terapist eşleştirme</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://gamzeli-eczanem-shop.vercel.app">
@@ -43,7 +43,7 @@
   </tr>
 </table>
 
-> 💡 **TerapistBul demo girişi** — Admin: `admin@terapistbul.com` / `admin123` · Terapist: `ak@terapistbul.com` / `123456`
+> 💡 **TerapiBul demo girişi** — Admin: `admin@terapistbul.com` / `admin123` · Terapist: `ak@terapistbul.com` / `123456`
 
 ---
 
@@ -84,20 +84,20 @@
 
 ## 🌟 Öne Çıkan Projelerim
 
-### 🩺 [TerapistBul](https://github.com/Atalaydurmaz/terapistbul)
+### 🩺 [TerapiBul](https://github.com/Atalaydurmaz/terapistbul)
 
 **AI destekli terapist eşleştirme ve video terapi platformu.**
 Danışanları ihtiyaçlarına uygun uzmanlarla buluşturan, Daily.co tabanlı güvenli video görüşme altyapısı ve Claude destekli psikoloji asistanı sunan bir Next.js uygulaması.
 
-<a href="https://terapistbul.com"><img src="https://img.shields.io/badge/🌐_Live-terapistbul.com-0f766e?style=flat-square" /></a>
+<a href="https://terapibul.vercel.app"><img src="https://img.shields.io/badge/🌐_Live-terapibul.vercel.app-0f766e?style=flat-square" /></a>
 <a href="https://github.com/Atalaydurmaz/terapistbul"><img src="https://img.shields.io/badge/Repo-GitHub-1f2937?style=flat-square&logo=github" /></a>
 
 **Öne çıkanlar:** Supabase Realtime senkronizasyon · HMAC imzalı HTTP-only oturum · terapist/admin/danışan panelleri · 60+ Playwright E2E testi
 **Stack:** Next.js 16 · React 19 · Supabase · NextAuth v5 · Anthropic Claude · Daily.co · Tailwind · Playwright
 
 <p align="center">
-  <a href="https://terapistbul.com">
-    <img src="https://raw.githubusercontent.com/Atalaydurmaz/terapistbul/main/public/screenshots/01-homepage.png" width="85%" alt="TerapistBul" />
+  <a href="https://terapibul.vercel.app">
+    <img src="https://raw.githubusercontent.com/Atalaydurmaz/terapistbul/main/public/screenshots/01-homepage.png" width="85%" alt="TerapiBul" />
   </a>
 </p>
 

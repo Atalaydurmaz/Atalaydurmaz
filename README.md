@@ -5,9 +5,12 @@
 </p>
 
 <p align="center">
-  <a href="mailto:durmazatalay6@gmail.com">
-    <img src="https://img.shields.io/badge/E--posta-durmazatalay6%40gmail.com-0f766e?style=flat-square&logo=gmail&logoColor=white" alt="E-posta" />
-  </a>
+  <a href="mailto:durmazatalay6@gmail.com"><img src="https://img.shields.io/badge/E--posta-durmazatalay6%40gmail.com-0f766e?style=flat-square&logo=gmail&logoColor=white" alt="E-posta" /></a>
+  <a href="https://github.com/Atalaydurmaz"><img src="https://img.shields.io/badge/GitHub-@Atalaydurmaz-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+<p align="center">
+  📧 <a href="mailto:durmazatalay6@gmail.com"><b>durmazatalay6@gmail.com</b></a>
 </p>
 
 ---
@@ -17,49 +20,34 @@
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
-      <a href="https://terapibul.vercel.app">
-        <img src="https://raw.githubusercontent.com/Atalaydurmaz/terapistbul/main/public/screenshots/01-homepage.png" width="100%" alt="TerapiBul" />
-      </a>
+      <a href="https://terapibul.vercel.app" title="TerapiBul — Canlı siteyi aç"><img src="https://raw.githubusercontent.com/Atalaydurmaz/terapistbul/main/public/screenshots/01-homepage.png" width="100%" alt="TerapiBul önizleme" /></a>
       <br/><br/>
-      <a href="https://terapibul.vercel.app">
-        <img src="https://img.shields.io/badge/🩺%20TerapiBul-0f766e?style=for-the-badge&logoColor=white" alt="TerapiBul" />
-      </a>
-      <br/>
-      <img src="https://img.shields.io/badge/●_LIVE-22c55e?style=flat-square&labelColor=0f766e" alt="Live" />
+      <a href="https://terapibul.vercel.app"><img src="https://img.shields.io/badge/🩺%20TerapiBul-0f766e?style=for-the-badge&logoColor=white" alt="TerapiBul" /></a>
+      <a href="https://terapibul.vercel.app"><img src="https://img.shields.io/badge/●_LIVE-22c55e?style=flat-square&labelColor=0f766e" alt="LIVE" /></a>
       <br/><br/>
       <sub><b>AI terapist eşleştirme platformu</b><br/>Video terapi · Realtime sync · Claude chatbot</sub>
       <br/><br/>
-      <code>terapibul.vercel.app</code>
+      <a href="https://terapibul.vercel.app"><b>🌐 terapibul.vercel.app →</b></a>
     </td>
     <td align="center" valign="top" width="33%">
-      <a href="https://gamzeli-eczanem-shop.vercel.app">
-        <img src="https://raw.githubusercontent.com/Atalaydurmaz/GamzeliEczanem-/main/screenshots/01-anasayfa.png" width="100%" alt="Gamzelieczanem" />
-      </a>
+      <a href="https://gamzeli-eczanem-shop.vercel.app" title="Gamzelieczanem — Canlı siteyi aç"><img src="https://raw.githubusercontent.com/Atalaydurmaz/GamzeliEczanem-/main/screenshots/01-anasayfa.png" width="100%" alt="Gamzelieczanem önizleme" /></a>
       <br/><br/>
-      <a href="https://gamzeli-eczanem-shop.vercel.app">
-        <img src="https://img.shields.io/badge/💊%20Gamzelieczanem-ec4899?style=for-the-badge&logoColor=white" alt="Gamzelieczanem" />
-      </a>
-      <br/>
-      <img src="https://img.shields.io/badge/●_LIVE-22c55e?style=flat-square&labelColor=ec4899" alt="Live" />
+      <a href="https://gamzeli-eczanem-shop.vercel.app"><img src="https://img.shields.io/badge/💊%20Gamzelieczanem-ec4899?style=for-the-badge&logoColor=white" alt="Gamzelieczanem" /></a>
+      <a href="https://gamzeli-eczanem-shop.vercel.app"><img src="https://img.shields.io/badge/●_LIVE-22c55e?style=flat-square&labelColor=ec4899" alt="LIVE" /></a>
       <br/><br/>
       <sub><b>AI destekli kozmetik e-ticaret</b><br/>Cilt analizi · Sanal makyaj · Iyzico</sub>
       <br/><br/>
-      <code>gamzeli-eczanem-shop.vercel.app</code>
+      <a href="https://gamzeli-eczanem-shop.vercel.app"><b>🌐 gamzeli-eczanem-shop.vercel.app →</b></a>
     </td>
     <td align="center" valign="top" width="33%">
-      <a href="https://bilaler-randevu-app.vercel.app">
-        <img src="https://raw.githubusercontent.com/Atalaydurmaz/bilaler-randevu-app/main/screenshots/01-anasayfa.png" width="100%" alt="Bilal Er Hair Workshop" />
-      </a>
+      <a href="https://bilaler-randevu-app.vercel.app" title="Bilal Er — Canlı siteyi aç"><img src="https://raw.githubusercontent.com/Atalaydurmaz/bilaler-randevu-app/main/screenshots/01-anasayfa.png" width="100%" alt="Bilal Er önizleme" /></a>
       <br/><br/>
-      <a href="https://bilaler-randevu-app.vercel.app">
-        <img src="https://img.shields.io/badge/✂️%20Bilal%20Er-111?style=for-the-badge&logoColor=white" alt="Bilal Er" />
-      </a>
-      <br/>
-      <img src="https://img.shields.io/badge/●_LIVE-22c55e?style=flat-square&labelColor=111" alt="Live" />
+      <a href="https://bilaler-randevu-app.vercel.app"><img src="https://img.shields.io/badge/✂️%20Bilal%20Er-111?style=for-the-badge&logoColor=white" alt="Bilal Er" /></a>
+      <a href="https://bilaler-randevu-app.vercel.app"><img src="https://img.shields.io/badge/●_LIVE-22c55e?style=flat-square&labelColor=111" alt="LIVE" /></a>
       <br/><br/>
       <sub><b>Online kuaför randevu sistemi</b><br/>Firebase Realtime · EmailJS · Vanilla SPA</sub>
       <br/><br/>
-      <code>bilaler-randevu-app.vercel.app</code>
+      <a href="https://bilaler-randevu-app.vercel.app"><b>🌐 bilaler-randevu-app.vercel.app →</b></a>
     </td>
   </tr>
 </table>

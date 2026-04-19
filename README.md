@@ -1,7 +1,7 @@
 <h1 align="center">Merhaba, ben Atalay 👋</h1>
 
 <p align="center">
-  Full-stack geliştirici · Yapay zekâ destekli ürünler · Ruh sağlığı & e-ticaret · Veri madenciliği
+  Information Systems Engineer | Full-Stack Developer | Data & AI Solutions
 </p>
 
 <p align="center">

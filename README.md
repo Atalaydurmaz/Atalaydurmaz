@@ -20,7 +20,7 @@
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
-      <a href="https://terapibul-weld.vercel.app" title="TerapiBul — Canlı siteyi aç"><img src="https://raw.githubusercontent.com/Atalaydurmaz/terapistbul/main/public/screenshots/01-homepage.png" width="100%" alt="TerapiBul önizleme" /></a>
+      <a href="https://terapibul-weld.vercel.app" title="TerapiBul — Canlı siteyi aç"><img src="screenshots/terapibul.png" width="100%" alt="TerapiBul önizleme" /></a>
       <br/><br/>
       <a href="https://terapibul-weld.vercel.app"><img src="https://img.shields.io/badge/🩺%20TerapiBul-0f766e?style=for-the-badge&logoColor=white" alt="TerapiBul" /></a>
       <a href="https://terapibul-weld.vercel.app"><img src="https://img.shields.io/badge/●_LIVE-22c55e?style=flat-square&labelColor=0f766e" alt="LIVE" /></a>
@@ -30,7 +30,7 @@
       <a href="https://terapibul-weld.vercel.app"><b>🌐 terapibul-weld.vercel.app →</b></a>
     </td>
     <td align="center" valign="top" width="33%">
-      <a href="https://gamzeli-eczanem-shop.vercel.app" title="Gamzelieczanem — Canlı siteyi aç"><img src="https://raw.githubusercontent.com/Atalaydurmaz/GamzeliEczanem-/main/screenshots/01-anasayfa.png" width="100%" alt="Gamzelieczanem önizleme" /></a>
+      <a href="https://gamzeli-eczanem-shop.vercel.app" title="Gamzelieczanem — Canlı siteyi aç"><img src="screenshots/gamzelieczanem.png" width="100%" alt="Gamzelieczanem önizleme" /></a>
       <br/><br/>
       <a href="https://gamzeli-eczanem-shop.vercel.app"><img src="https://img.shields.io/badge/💊%20Gamzelieczanem-ec4899?style=for-the-badge&logoColor=white" alt="Gamzelieczanem" /></a>
       <a href="https://gamzeli-eczanem-shop.vercel.app"><img src="https://img.shields.io/badge/●_LIVE-22c55e?style=flat-square&labelColor=ec4899" alt="LIVE" /></a>
@@ -40,7 +40,7 @@
       <a href="https://gamzeli-eczanem-shop.vercel.app"><b>🌐 gamzeli-eczanem-shop.vercel.app →</b></a>
     </td>
     <td align="center" valign="top" width="33%">
-      <a href="https://bilaler-randevu-app.vercel.app" title="Bilal Er — Canlı siteyi aç"><img src="https://raw.githubusercontent.com/Atalaydurmaz/bilaler-randevu-app/main/screenshots/01-anasayfa.png" width="100%" alt="Bilal Er önizleme" /></a>
+      <a href="https://bilaler-randevu-app.vercel.app" title="Bilal Er — Canlı siteyi aç"><img src="screenshots/bilaler.png" width="100%" alt="Bilal Er önizleme" /></a>
       <br/><br/>
       <a href="https://bilaler-randevu-app.vercel.app"><img src="https://img.shields.io/badge/✂️%20Bilal%20Er-111?style=for-the-badge&logoColor=white" alt="Bilal Er" /></a>
       <a href="https://bilaler-randevu-app.vercel.app"><img src="https://img.shields.io/badge/●_LIVE-22c55e?style=flat-square&labelColor=111" alt="LIVE" /></a>
@@ -51,10 +51,6 @@
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <sub>💡 <b>TerapiBul demo girişi:</b> &nbsp; Admin <code>admin@terapistbul.com</code> / <code>admin123</code> &nbsp;·&nbsp; Terapist <code>ak@terapistbul.com</code> / <code>123456</code></sub>
-</p>
 
 ---
 

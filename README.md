@@ -12,35 +12,61 @@
 
 ---
 
-## 🚀 Live Demo — Canlıdaki Projeler
+## 🚀 Live Demo
 
 <table>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" valign="top" width="33%">
       <a href="https://terapibul.vercel.app">
-        <img src="https://img.shields.io/badge/🩺_TerapiBul-Canlı-0f766e?style=for-the-badge&logoColor=white" height="36" />
+        <img src="https://raw.githubusercontent.com/Atalaydurmaz/terapistbul/main/public/screenshots/01-homepage.png" width="100%" alt="TerapiBul" />
+      </a>
+      <br/><br/>
+      <a href="https://terapibul.vercel.app">
+        <img src="https://img.shields.io/badge/🩺%20TerapiBul-0f766e?style=for-the-badge&logoColor=white" alt="TerapiBul" />
       </a>
       <br/>
-      <sub><strong>terapibul.vercel.app</strong><br/>AI terapist eşleştirme</sub>
+      <img src="https://img.shields.io/badge/●_LIVE-22c55e?style=flat-square&labelColor=0f766e" alt="Live" />
+      <br/><br/>
+      <sub><b>AI terapist eşleştirme platformu</b><br/>Video terapi · Realtime sync · Claude chatbot</sub>
+      <br/><br/>
+      <code>terapibul.vercel.app</code>
     </td>
-    <td align="center" width="33%">
+    <td align="center" valign="top" width="33%">
       <a href="https://gamzeli-eczanem-shop.vercel.app">
-        <img src="https://img.shields.io/badge/💊_Gamzelieczanem-Canlı-ec4899?style=for-the-badge&logoColor=white" height="36" />
+        <img src="https://raw.githubusercontent.com/Atalaydurmaz/GamzeliEczanem-/main/screenshots/01-anasayfa.png" width="100%" alt="Gamzelieczanem" />
+      </a>
+      <br/><br/>
+      <a href="https://gamzeli-eczanem-shop.vercel.app">
+        <img src="https://img.shields.io/badge/💊%20Gamzelieczanem-ec4899?style=for-the-badge&logoColor=white" alt="Gamzelieczanem" />
       </a>
       <br/>
-      <sub><strong>gamzeli-eczanem-shop.vercel.app</strong><br/>AI destekli kozmetik e-ticaret</sub>
+      <img src="https://img.shields.io/badge/●_LIVE-22c55e?style=flat-square&labelColor=ec4899" alt="Live" />
+      <br/><br/>
+      <sub><b>AI destekli kozmetik e-ticaret</b><br/>Cilt analizi · Sanal makyaj · Iyzico</sub>
+      <br/><br/>
+      <code>gamzeli-eczanem-shop.vercel.app</code>
     </td>
-    <td align="center" width="33%">
+    <td align="center" valign="top" width="33%">
       <a href="https://bilaler-randevu-app.vercel.app">
-        <img src="https://img.shields.io/badge/✂️_Bilal_Er-Canlı-111?style=for-the-badge&logoColor=white" height="36" />
+        <img src="https://raw.githubusercontent.com/Atalaydurmaz/bilaler-randevu-app/main/screenshots/01-anasayfa.png" width="100%" alt="Bilal Er Hair Workshop" />
+      </a>
+      <br/><br/>
+      <a href="https://bilaler-randevu-app.vercel.app">
+        <img src="https://img.shields.io/badge/✂️%20Bilal%20Er-111?style=for-the-badge&logoColor=white" alt="Bilal Er" />
       </a>
       <br/>
-      <sub><strong>bilaler-randevu-app.vercel.app</strong><br/>Online kuaför randevu sistemi</sub>
+      <img src="https://img.shields.io/badge/●_LIVE-22c55e?style=flat-square&labelColor=111" alt="Live" />
+      <br/><br/>
+      <sub><b>Online kuaför randevu sistemi</b><br/>Firebase Realtime · EmailJS · Vanilla SPA</sub>
+      <br/><br/>
+      <code>bilaler-randevu-app.vercel.app</code>
     </td>
   </tr>
 </table>
 
-> 💡 **TerapiBul demo girişi** — Admin: `admin@terapistbul.com` / `admin123` · Terapist: `ak@terapistbul.com` / `123456`
+<p align="center">
+  <sub>💡 <b>TerapiBul demo girişi:</b> &nbsp; Admin <code>admin@terapistbul.com</code> / <code>admin123</code> &nbsp;·&nbsp; Terapist <code>ak@terapistbul.com</code> / <code>123456</code></sub>
+</p>
 
 ---
 

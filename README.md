@@ -72,7 +72,7 @@
 
 ### 🧭 Hakkımda
 
-- 🩺 Türkiye'de ruh sağlığına erişimi kolaylaştıran **AI destekli ürünler** geliştiriyorum
+- 💡 Sağlık, e-ticaret ve hizmet sektörlerinde **AI destekli ürünler** ve tam kapsamlı web uygulamaları geliştiriyorum
 - ⚙️ Next.js + React ekosisteminde son kullanıcıya dokunan arayüzler inşa ediyorum
 - 🧠 Anthropic Claude ile empatik asistan akışları, Supabase Realtime ile canlı paneller
 - 🧪 Playwright ile uçtan-uca test yazmayı, detaylara takılmayı seviyorum

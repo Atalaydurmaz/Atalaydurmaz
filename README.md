@@ -8,9 +8,6 @@
   <a href="mailto:durmazatalay6@gmail.com">
     <img src="https://img.shields.io/badge/E--posta-durmazatalay6%40gmail.com-0f766e?style=flat-square&logo=gmail&logoColor=white" alt="E-posta" />
   </a>
-  <a href="https://github.com/Atalaydurmaz">
-    <img src="https://img.shields.io/github/followers/Atalaydurmaz?label=Takipçi&style=flat-square&color=0f766e" alt="Takipçi" />
-  </a>
 </p>
 
 ---

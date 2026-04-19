@@ -15,6 +15,31 @@
 
 ---
 
+## 🚀 Live Demo
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://terapistbul.com">
+        <img src="https://img.shields.io/badge/🩺_TerapistBul-Canlı_Site-0f766e?style=for-the-badge&logoColor=white" alt="TerapistBul Canlı Site" height="36" />
+      </a>
+      <br />
+      <sub><strong>terapistbul.com</strong> — AI destekli terapist eşleştirme platformu</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://terapistbul.vercel.app">
+        <img src="https://img.shields.io/badge/▲_Vercel-Preview-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel Preview" height="36" />
+      </a>
+      <br />
+      <sub><strong>terapistbul.vercel.app</strong> — Güncel deploy / staging</sub>
+    </td>
+  </tr>
+</table>
+
+> 💡 **Demo girişi** — Admin: `admin@terapistbul.com` / `admin123` · Terapist: `ak@terapistbul.com` / `123456`
+
+---
+
 ### 🧭 Hakkımda
 
 - 🩺 **[TerapistBul](https://github.com/Atalaydurmaz/terapistbul)** — Türkiye'de ruh sağlığına erişimi kolaylaştıran yapay zekâ destekli terapist eşleştirme platformu
@@ -53,8 +78,14 @@
         <strong>Öne çıkanlar:</strong> Supabase Realtime senkronizasyon · HMAC imzalı HTTP-only oturum · terapist/admin/danışan panelleri · 60+ Playwright E2E testi
       </p>
       <p>
+        <a href="https://terapistbul.com">
+          <img src="https://img.shields.io/badge/🌐_Live-terapistbul.com-0f766e?style=flat-square" alt="Live" />
+        </a>
+        <a href="https://terapistbul.vercel.app">
+          <img src="https://img.shields.io/badge/▲_Vercel-Preview-000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+        </a>
         <a href="https://github.com/Atalaydurmaz/terapistbul">
-          <img src="https://img.shields.io/badge/Repo-Görüntüle-0f766e?style=flat-square&logo=github" alt="Repo" />
+          <img src="https://img.shields.io/badge/Repo-Görüntüle-1f2937?style=flat-square&logo=github" alt="Repo" />
         </a>
       </p>
     </td>
@@ -69,6 +100,27 @@
         <li>Tailwind CSS</li>
         <li>Playwright</li>
       </ul>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://terapistbul.com">
+    <img src="https://raw.githubusercontent.com/Atalaydurmaz/terapistbul/main/public/screenshots/01-homepage.png" width="85%" alt="TerapistBul — Anasayfa" />
+  </a>
+  <br />
+  <sub><em>Anasayfa · AI eşleştirme kutusu + istatistikler</em></sub>
+</p>
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://raw.githubusercontent.com/Atalaydurmaz/terapistbul/main/public/screenshots/05-chatbot.png" alt="Psikoloji Asistanı" />
+      <p align="center"><sub>7/24 AI Psikoloji Asistanı (Claude)</sub></p>
+    </td>
+    <td width="50%">
+      <img src="https://raw.githubusercontent.com/Atalaydurmaz/terapistbul/main/public/screenshots/06-admin-dashboard.png" alt="Admin Dashboard" />
+      <p align="center"><sub>Admin Dashboard · Realtime KPI'lar</sub></p>
     </td>
   </tr>
 </table>

@@ -20,14 +20,14 @@
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
-      <a href="https://terapibul-weld.vercel.app" title="TerapiBul — Canlı siteyi aç"><img src="screenshots/terapibul.png" width="100%" alt="TerapiBul önizleme" /></a>
+      <a href="https://terapistibul.com" title="TerapistBul — Canlı siteyi aç"><img src="screenshots/terapibul.png" width="100%" alt="TerapistBul önizleme" /></a>
       <br/><br/>
-      <a href="https://terapibul-weld.vercel.app"><img src="https://img.shields.io/badge/🩺%20TerapiBul-0f766e?style=for-the-badge&logoColor=white" alt="TerapiBul" /></a>
-      <a href="https://terapibul-weld.vercel.app"><img src="https://img.shields.io/badge/●_LIVE-22c55e?style=flat-square&labelColor=0f766e" alt="LIVE" /></a>
+      <a href="https://terapistibul.com"><img src="https://img.shields.io/badge/🩺%20TerapistBul-0f766e?style=for-the-badge&logoColor=white" alt="TerapistBul" /></a>
+      <a href="https://terapistibul.com"><img src="https://img.shields.io/badge/●_LIVE-22c55e?style=flat-square&labelColor=0f766e" alt="LIVE" /></a>
       <br/><br/>
       <sub><b>AI terapist eşleştirme platformu</b><br/>Video terapi · Realtime sync · Claude chatbot</sub>
       <br/><br/>
-      <a href="https://terapibul-weld.vercel.app"><b>🌐 terapibul-weld.vercel.app →</b></a>
+      <a href="https://terapistibul.com"><b>🌐 terapistibul.com →</b></a>
     </td>
     <td align="center" valign="top" width="33%">
       <a href="https://gamzelidermokozmetik.com" title="Gamzelieczanem — Canlı siteyi aç"><img src="screenshots/gamzelieczanem.png" width="100%" alt="Gamzelieczanem önizleme" /></a>
@@ -91,20 +91,20 @@
 
 ## 🌟 Öne Çıkan Projelerim
 
-### 🩺 [TerapiBul](https://github.com/Atalaydurmaz/terapistbul)
+### 🩺 [TerapistBul](https://github.com/Atalaydurmaz/terapistbul)
 
 **AI destekli terapist eşleştirme ve video terapi platformu.**
 Danışanları ihtiyaçlarına uygun uzmanlarla buluşturan, Daily.co tabanlı güvenli video görüşme altyapısı ve Claude destekli psikoloji asistanı sunan bir Next.js uygulaması.
 
-<a href="https://terapibul-weld.vercel.app"><img src="https://img.shields.io/badge/🌐_Live-terapibul--weld.vercel.app-0f766e?style=flat-square" /></a>
+<a href="https://terapistibul.com"><img src="https://img.shields.io/badge/🌐_Live-terapistibul.com-0f766e?style=flat-square" /></a>
 <a href="https://github.com/Atalaydurmaz/terapistbul"><img src="https://img.shields.io/badge/Repo-GitHub-1f2937?style=flat-square&logo=github" /></a>
 
 **Öne çıkanlar:** Supabase Realtime senkronizasyon · HMAC imzalı HTTP-only oturum · terapist/admin/danışan panelleri · 60+ Playwright E2E testi
 **Stack:** Next.js 16 · React 19 · Supabase · NextAuth v5 · Anthropic Claude · Daily.co · Tailwind · Playwright
 
 <p align="center">
-  <a href="https://terapibul-weld.vercel.app">
-    <img src="https://raw.githubusercontent.com/Atalaydurmaz/terapistbul/main/public/screenshots/01-homepage.png" width="85%" alt="TerapiBul" />
+  <a href="https://terapistibul.com">
+    <img src="https://raw.githubusercontent.com/Atalaydurmaz/terapistbul/main/public/screenshots/01-homepage.png" width="85%" alt="TerapistBul" />
   </a>
 </p>
 

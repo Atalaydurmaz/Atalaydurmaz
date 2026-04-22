@@ -1,11 +1,11 @@
-<h1 align="center">Merhaba, ben Atalay 👋</h1>
+<h1 align="center">Hi, I'm Atalay 👋</h1>
 
 <p align="center">
   Information Systems Engineer | Full-Stack Developer | Data & AI Solutions
 </p>
 
 <p align="center">
-  <a href="mailto:durmazatalay6@gmail.com"><img src="https://img.shields.io/badge/E--posta-durmazatalay6%40gmail.com-0f766e?style=flat-square&logo=gmail&logoColor=white" alt="E-posta" /></a>
+  <a href="mailto:durmazatalay6@gmail.com"><img src="https://img.shields.io/badge/Email-durmazatalay6%40gmail.com-0f766e?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/Atalaydurmaz"><img src="https://img.shields.io/badge/GitHub-@Atalaydurmaz-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
@@ -20,32 +20,32 @@
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
-      <a href="https://terapistibul.com" title="TerapistBul — Canlı siteyi aç"><img src="screenshots/terapibul.png" width="100%" alt="TerapistBul önizleme" /></a>
+      <a href="https://terapistibul.com" title="TerapistBul — Open live site"><img src="screenshots/terapibul.png" width="100%" alt="TerapistBul preview" /></a>
       <br/><br/>
       <a href="https://terapistibul.com"><img src="https://img.shields.io/badge/🩺%20TerapistBul-0f766e?style=for-the-badge&logoColor=white" alt="TerapistBul" /></a>
       <a href="https://terapistibul.com"><img src="https://img.shields.io/badge/●_LIVE-22c55e?style=flat-square&labelColor=0f766e" alt="LIVE" /></a>
       <br/><br/>
-      <sub><b>AI terapist eşleştirme platformu</b><br/>Video terapi · Realtime sync · Claude chatbot</sub>
+      <sub><b>AI therapist matching platform</b><br/>Video therapy · Realtime sync · Claude chatbot</sub>
       <br/><br/>
       <a href="https://terapistibul.com"><b>🌐 terapistibul.com →</b></a>
     </td>
     <td align="center" valign="top" width="33%">
-      <a href="https://gamzelidermokozmetik.com" title="Gamzelieczanem — Canlı siteyi aç"><img src="screenshots/gamzelieczanem.png" width="100%" alt="Gamzelieczanem önizleme" /></a>
+      <a href="https://gamzelidermokozmetik.com" title="Gamzelieczanem — Open live site"><img src="screenshots/gamzelieczanem.png" width="100%" alt="Gamzelieczanem preview" /></a>
       <br/><br/>
       <a href="https://gamzelidermokozmetik.com"><img src="https://img.shields.io/badge/💊%20Gamzelieczanem-ec4899?style=for-the-badge&logoColor=white" alt="Gamzelieczanem" /></a>
       <a href="https://gamzelidermokozmetik.com"><img src="https://img.shields.io/badge/●_LIVE-22c55e?style=flat-square&labelColor=ec4899" alt="LIVE" /></a>
       <br/><br/>
-      <sub><b>AI destekli kozmetik e-ticaret</b><br/>Cilt analizi · Sanal makyaj · Iyzico</sub>
+      <sub><b>AI-powered cosmetics e-commerce</b><br/>Skin analysis · Virtual makeup · Iyzico</sub>
       <br/><br/>
       <a href="https://gamzelidermokozmetik.com"><b>🌐 gamzelidermokozmetik.com →</b></a>
     </td>
     <td align="center" valign="top" width="33%">
-      <a href="https://bilaler-randevu-app.vercel.app" title="Bilal Er — Canlı siteyi aç"><img src="screenshots/bilaler.png" width="100%" alt="Bilal Er önizleme" /></a>
+      <a href="https://bilaler-randevu-app.vercel.app" title="Bilal Er — Open live site"><img src="screenshots/bilaler.png" width="100%" alt="Bilal Er preview" /></a>
       <br/><br/>
       <a href="https://bilaler-randevu-app.vercel.app"><img src="https://img.shields.io/badge/✂️%20Bilal%20Er-111?style=for-the-badge&logoColor=white" alt="Bilal Er" /></a>
       <a href="https://bilaler-randevu-app.vercel.app"><img src="https://img.shields.io/badge/●_LIVE-22c55e?style=flat-square&labelColor=111" alt="LIVE" /></a>
       <br/><br/>
-      <sub><b>Online kuaför randevu sistemi</b><br/>Firebase Realtime · EmailJS · Vanilla SPA</sub>
+      <sub><b>Online barber appointment system</b><br/>Firebase Realtime · EmailJS · Vanilla SPA</sub>
       <br/><br/>
       <a href="https://bilaler-randevu-app.vercel.app"><b>🌐 bilaler-randevu-app.vercel.app →</b></a>
     </td>
@@ -54,18 +54,18 @@
 
 ---
 
-### 🧭 Hakkımda
+### 🧭 About Me
 
-- 💡 Sağlık, e-ticaret ve hizmet sektörlerinde **AI destekli ürünler** ve tam kapsamlı web uygulamaları geliştiriyorum
-- ⚙️ Next.js + React ekosisteminde son kullanıcıya dokunan arayüzler inşa ediyorum
-- 🧠 Anthropic Claude ile empatik asistan akışları, Supabase Realtime ile canlı paneller
-- 🧪 Playwright ile uçtan-uca test yazmayı, detaylara takılmayı seviyorum
-- 📊 Veri madenciliği ve makine öğrenmesi projeleriyle sayıları hikâyeye dönüştürüyorum
-- 🤝 Ürün, UX veya backend tarafında yeni projelere açığım
+- 💡 I build **AI-powered products** and full-stack web apps for health, e-commerce, and service businesses
+- ⚙️ I create user-friendly interfaces with **Next.js + React**
+- 🧠 I design smart assistant flows with **Anthropic Claude** and live dashboards with **Supabase Realtime**
+- 🧪 I enjoy writing end-to-end tests with **Playwright** and I care about small details
+- 📊 I turn numbers into stories with **data mining** and **machine learning** projects
+- 🤝 I am open to new projects in product, UX, or backend development
 
 ---
 
-## 🛠️ Kullandığım Araçlar
+## 🛠️ Tools I Use
 
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react&logoColor=61dafb)
@@ -89,17 +89,17 @@
 
 ---
 
-## 🌟 Öne Çıkan Projelerim
+## 🌟 Featured Projects
 
 ### 🩺 [TerapistBul](https://github.com/Atalaydurmaz/terapistbul)
 
-**AI destekli terapist eşleştirme ve video terapi platformu.**
-Danışanları ihtiyaçlarına uygun uzmanlarla buluşturan, Daily.co tabanlı güvenli video görüşme altyapısı ve Claude destekli psikoloji asistanı sunan bir Next.js uygulaması.
+**An AI-powered therapist matching and video therapy platform.**
+A Next.js app that connects clients with the right therapists. It has safe video calls with Daily.co and a psychology assistant powered by Claude.
 
 <a href="https://terapistibul.com"><img src="https://img.shields.io/badge/🌐_Live-terapistibul.com-0f766e?style=flat-square" /></a>
 <a href="https://github.com/Atalaydurmaz/terapistbul"><img src="https://img.shields.io/badge/Repo-GitHub-1f2937?style=flat-square&logo=github" /></a>
 
-**Öne çıkanlar:** Supabase Realtime senkronizasyon · HMAC imzalı HTTP-only oturum · terapist/admin/danışan panelleri · 60+ Playwright E2E testi
+**Highlights:** Supabase Realtime sync · HMAC-signed HTTP-only sessions · therapist/admin/client panels · 60+ Playwright E2E tests
 **Stack:** Next.js 16 · React 19 · Supabase · NextAuth v5 · Anthropic Claude · Daily.co · Tailwind · Playwright
 
 <p align="center">
@@ -112,13 +112,13 @@ Danışanları ihtiyaçlarına uygun uzmanlarla buluşturan, Daily.co tabanlı g
 
 ### 💊 [Gamzelieczanem](https://github.com/Atalaydurmaz/GamzeliEczanem-)
 
-**Yapay zekâ destekli kozmetik ve kişisel bakım e-ticaret platformu.**
-Eczacı güvencesiyle ürün satışı yapan, AI cilt analizi ve face-api.js ile sanal makyaj deneme sunan Next.js tabanlı tam kapsamlı e-ticaret çözümü.
+**An AI-powered cosmetics and personal care e-commerce platform.**
+A full-stack Next.js e-commerce site that sells products with pharmacist support. It offers AI skin analysis and virtual makeup try-on with face-api.js.
 
 <a href="https://gamzelidermokozmetik.com"><img src="https://img.shields.io/badge/🌐_Live-gamzelidermokozmetik.com-ec4899?style=flat-square" /></a>
 <a href="https://github.com/Atalaydurmaz/GamzeliEczanem-"><img src="https://img.shields.io/badge/Repo-GitHub-1f2937?style=flat-square&logo=github" /></a>
 
-**Öne çıkanlar:** AI cilt analizi · Sanal makyaj deneme · Iyzico ödeme entegrasyonu · 7/24 Eczacı Asistanı · Terk-sepet cron hatırlatıcısı · Admin paneli
+**Highlights:** AI skin analysis · Virtual makeup try-on · Iyzico payment · 24/7 Pharmacist Assistant · Abandoned cart cron reminder · Admin panel
 **Stack:** Next.js 16 · React 19 · Supabase · NextAuth · Anthropic Claude · face-api.js · Iyzico · Netgsm SMS · Tailwind
 
 <p align="center">
@@ -131,62 +131,62 @@ Eczacı güvencesiyle ürün satışı yapan, AI cilt analizi ve face-api.js ile
 
 ### ✂️ [Bilal Er Hair Workshop](https://github.com/Atalaydurmaz/bilaler-randevu-app)
 
-**Instagram üzerinden erişilebilen, mobil uyumlu online randevu sistemi.**
-Müşterilerin hizmet seçip takvimden randevu almasını sağlayan, Firebase Firestore ile gerçek zamanlı çalışan vanilla SPA.
+**A mobile-friendly online appointment system, shared through Instagram.**
+A vanilla SPA that works in real time with Firebase Firestore. Customers can pick a service and book a time from the calendar.
 
 <a href="https://bilaler-randevu-app.vercel.app"><img src="https://img.shields.io/badge/🌐_Live-bilaler--randevu--app.vercel.app-111?style=flat-square" /></a>
 <a href="https://github.com/Atalaydurmaz/bilaler-randevu-app"><img src="https://img.shields.io/badge/Repo-GitHub-1f2937?style=flat-square&logo=github" /></a>
 
-**Öne çıkanlar:** Hizmet + saat seçimi · Çift randevu engeli · PIN korumalı admin paneli · EmailJS bildirimleri · Mobil öncelikli tasarım
+**Highlights:** Service + time selection · Double-booking block · PIN-protected admin panel · EmailJS notifications · Mobile-first design
 **Stack:** Vanilla JS · Firebase Firestore · EmailJS · Vercel
 
 <p align="center">
   <a href="https://bilaler-randevu-app.vercel.app">
     <img src="https://raw.githubusercontent.com/Atalaydurmaz/bilaler-randevu-app/main/screenshots/01-anasayfa.png" width="45%" alt="Bilal Er Hair Workshop" />
     &nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/Atalaydurmaz/bilaler-randevu-app/main/screenshots/02-hizmet-secimi.png" width="45%" alt="Hizmet Seçimi" />
+    <img src="https://raw.githubusercontent.com/Atalaydurmaz/bilaler-randevu-app/main/screenshots/02-hizmet-secimi.png" width="45%" alt="Service Selection" />
   </a>
 </p>
 
 ---
 
-### 🚗 [İkinci El Araç Fiyat Tahmini](https://github.com/Atalaydurmaz/veri-madenciligi-arac-fiyat-tahmini)
+### 🚗 [Used Car Price Prediction](https://github.com/Atalaydurmaz/veri-madenciligi-arac-fiyat-tahmini)
 
-**Veri madenciliği dönem projesi.**
-arabam.com verilerini kullanarak 10 farklı makine öğrenmesi algoritmasıyla ikinci el araç fiyat tahmini, hiperparametre optimizasyonu, piyasa analizi ve fiyat segmentasyonu.
+**A data mining term project.**
+Used car price prediction with data from arabam.com. It uses 10 different machine learning algorithms, hyperparameter tuning, market analysis, and price segmentation.
 
 <a href="https://github.com/Atalaydurmaz/veri-madenciligi-arac-fiyat-tahmini"><img src="https://img.shields.io/badge/Repo-GitHub-1f2937?style=flat-square&logo=github" /></a>
 
-**Öne çıkanlar:** Veri ön işleme · 10+ ML algoritması (KNN, Karar Ağaçları, Random Forest) · Hiperparametre optimizasyonu · Otomatik rapor üretimi · Piyasa & segmentasyon analizi
+**Highlights:** Data preprocessing · 10+ ML algorithms (KNN, Decision Trees, Random Forest) · Hyperparameter tuning · Automatic report generation · Market & segmentation analysis
 **Stack:** Python · pandas · NumPy · scikit-learn · Matplotlib · Seaborn
 
 ---
 
-## 📊 GitHub İstatistiklerim
+## 📊 My GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Atalaydurmaz&show_icons=true&hide_border=true&count_private=true&title_color=0f766e&icon_color=0f766e" alt="GitHub istatistikleri" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atalaydurmaz&layout=compact&hide_border=true&title_color=0f766e" alt="En çok kullandığım diller" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Atalaydurmaz&show_icons=true&hide_border=true&count_private=true&title_color=0f766e&icon_color=0f766e" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atalaydurmaz&layout=compact&hide_border=true&title_color=0f766e" alt="Most used languages" />
 </p>
 
 ---
 
-## 🌱 Şu sıralar
+## 🌱 Currently Working On
 
-- Supabase Realtime üzerinden çok-katmanlı canlı paneller
-- Edge runtime'da HMAC imzalı oturum ve middleware tabanlı yetkilendirme
-- Claude ile empatik, güvenli AI asistan akışları
-- face-api.js ile tarayıcı içi AR deneyimleri
+- Multi-layer live dashboards with Supabase Realtime
+- HMAC-signed sessions and middleware-based auth on the Edge runtime
+- Safe and friendly AI assistant flows with Claude
+- In-browser AR experiences with face-api.js
 
 ---
 
-## 📬 İletişim
+## 📬 Contact
 
-Ortak projeler, freelance işler ya da sadece bir fikir alışverişi için yazmaktan çekinmeyin:
+Feel free to write to me for team projects, freelance work, or just to share ideas:
 **durmazatalay6@gmail.com**
 
 ---
 
 <p align="center">
-  <em>"İyi yazılım, insana saygı duyan yazılımdır."</em>
+  <em>"Good software is software that respects people."</em>
 </p>

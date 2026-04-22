@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Atalay 👋</h1>
 
 <p align="center">
-  Information Systems Engineer | Full-Stack Developer | Data & AI Solutions
+  Full-Stack AI Engineer | Automation & AI Solutions
 </p>
 
 <p align="center">

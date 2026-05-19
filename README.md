@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Atalay 👋</h1>
 
 <p align="center">
-  Full-Stack AI Engineer | Automation & AI Solutions
+  Founder · Builder · Information Systems + Computer Engineering Double Major
 </p>
 
 <p align="center">
